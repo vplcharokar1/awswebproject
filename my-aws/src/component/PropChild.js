@@ -7,7 +7,7 @@ export default function (props) {
     
     <div>
         <h1>I am a {name}</h1>
-        <button onClick={()=>{setName("this is from PropChid")}}>
+        <button onClick={()=>{setName("this is from PropChi")}}>
           Update Name
         </button>
     </div>
